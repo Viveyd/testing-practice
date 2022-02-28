@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "tdd demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "auto-lint": "npx eslint --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viveyd/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viveyd/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Viveyd/testing-practice#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1"
+  }
+}
